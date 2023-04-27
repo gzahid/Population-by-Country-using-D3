@@ -1,6 +1,6 @@
 # Population by Country using D3
 
-### git hub pages URL
+### Github pages URL:
 <a href="https://gzahid.github.io/Population-by-Country-using-D3/" target="_blank">https://gzahid.github.io/Population-by-Country-using-D3/</a>
 
 ### Description:
